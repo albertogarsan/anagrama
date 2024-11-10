@@ -17,7 +17,7 @@ Un anagrama es una palabra o frase que se forma al reorganizar las letras de otr
 
 ## Demostración en vivo
 
-Puedes ver una demostración en vivo del proyecto [aquí](https://albertogarsan.github.io/anagrama.github.io/).
+Puedes ver una demostración en vivo del proyecto [aquí](https://albertogarsan.github.io/anagrama/).
 
 ## Características
 
